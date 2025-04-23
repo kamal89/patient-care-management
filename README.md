@@ -7,6 +7,7 @@ This project implements a system to manage patients with the ability to:
 - Filter patients based on criteria such as name, medical condition, and attached document type.
 
 Note: This project is not comprehensive and uses in-memory databases to keep things simple. Additionally, the unit tests are incomplete.
+A full implementation would include an Auth Service among other things to ensure that the data is secure.
 
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                           Patient Management System                              │
